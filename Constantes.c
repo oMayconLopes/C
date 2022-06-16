@@ -4,7 +4,7 @@
 
 int main()
 {
-	printf("Ola Mundo");
+	printf("Test GitHub");
 	
 	
 	return 0;
